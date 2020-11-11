@@ -1,0 +1,24 @@
+{
+    "name": "Bola Kita",
+    "short_name": "Bola Kita",
+    "description": "Tempat Informasi Bola Kita Semua",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#a8dda8",
+    "theme_color": "#a8dda8",
+    "icons": [
+        {
+            "src": "/img/favicon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/img/favicon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "gcm_sender_id": "596627362524"
+}

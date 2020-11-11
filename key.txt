@@ -1,0 +1,7 @@
+{"publicKey":"BNT9AoPadQsptAjdT8eZ5GJ-i5d3Ldu2YfrwaXEPDecXSqveJgPr6vVRv3_vo2kjiycGqASrGD6uo-6776dKOH4","privateKey":"DJ0e9va2OSds0OKsOOxEueApoQXd73TuS5Ib3CqDevM"}
+
+erhasil melakukan subscribe dengan endpoint:  https://fcm.googleapis.com/fcm/send/f9P1PDQtQUY:APA91bGL6r0gYtF9kLFhfAcoaG_V7QAtatBNzByI8qtXMnv3enmWx_odXZBCYY-V0VsMKA7oAPn9z9qP621TQSV3trTKqFvfAhNF6eEl0syQLhgUB587VMVm2wn8ci_6SHXMq2bX52PM
+
+Berhasil melakukan subscirbe dengan p256dh key:  BEtpv73oGVZAhI7dbJKJUzPsGV9mdXrcntcT77DrwGHn+0fMwq0QuVdlGaTsArflNqWyKiI7PckAt1LJ4RIWdlI=
+ 
+Berhasil melakukan subscribe dengan auth key:  eWkFiKxD1+mCkkl1odjH6g==
